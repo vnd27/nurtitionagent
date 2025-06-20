@@ -1,0 +1,11 @@
+google-generativeai
+Pillow
+opencv-python
+numpy
+duckduckgo-search
+streamlit
+rich
+python-dotenv
+requests
+phidata
+gradio
